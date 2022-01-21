@@ -7,6 +7,8 @@ Two Feather/FeatherWing can be placed side by side on this board.
 
 The Doubler 1X2, has a tripple duplicate breakout for each pin on a Feather, as well as a bunch of plain grid development holes. Also, the three sets of pins are cross connected and for GND(- or black) and 3.3V(+ or red), they give you a full strip of connected pads.
 
+The board can be produced here (AISLER) with the files (.brd and .sch) or by any other PCB manufacturer. -> https://aisler.net/
+
 # Layout
 
 Top
@@ -14,3 +16,11 @@ Top
 
 Bottom
 ![1X2_Bottom](https://user-images.githubusercontent.com/88975406/150583839-7a2772aa-4974-48ab-93c8-1801aacab631.png)
+
+# License
+
+The design and layout is based on open source publications from Adafruit and has been modified for side-by-side assembly.
+
+# Thanks!
+
+Great work and many thanks to Adafruit! https://www.adafruit.com/

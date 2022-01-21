@@ -24,3 +24,6 @@ The design and layout is based on open source publications from Adafruit and has
 # Thanks!
 
 Great work and many thanks to Adafruit! https://www.adafruit.com/
+
+# Version - Build
+v1.0 - 21.01.2022

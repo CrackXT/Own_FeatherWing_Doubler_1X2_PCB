@@ -17,6 +17,9 @@ Top
 Bottom
 ![1X2_Bottom](https://user-images.githubusercontent.com/88975406/150583839-7a2772aa-4974-48ab-93c8-1801aacab631.png)
 
+Routed/Dimensions
+![1X2_v1 0](https://user-images.githubusercontent.com/88975406/150595696-61746d38-ef5c-4a75-b4f2-b1422d7b238e.png)
+
 # License
 
 The design and layout is based on open source publications from Adafruit and has been modified for side-by-side assembly.

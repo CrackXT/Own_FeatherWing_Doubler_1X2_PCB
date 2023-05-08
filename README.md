@@ -10,17 +10,22 @@ The Doubler 1X2, has a tripple duplicate breakout for each pin on a Feather, as 
 
 The board can be produced here (AISLER) with the files (.brd and .sch) or by any other PCB manufacturer. -> https://aisler.net/
 
+# Serie
+
+- .dev
+
 # Layout
 
-Top
+Top<br>
 ![1X2_Top](https://user-images.githubusercontent.com/88975406/150583787-313d36e9-9d75-4fb4-bf63-42ec1b8452a3.png)
 
-Bottom
+Bottom<br>
 ![1X2_Bottom](https://user-images.githubusercontent.com/88975406/150583839-7a2772aa-4974-48ab-93c8-1801aacab631.png)
 
-Routing/Dimensions(inch)
+Routing/Dimensions(inch)<br>
 ![1X2_v1 0](https://user-images.githubusercontent.com/88975406/150595696-61746d38-ef5c-4a75-b4f2-b1422d7b238e.png)
 
+Schematic<br>
 Schematic as .pdf at the top of the page.
 
 # License
